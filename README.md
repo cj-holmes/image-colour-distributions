@@ -3,10 +3,8 @@
 
 # Image colour distributions
 
--   **This is an EXPERIMENTAL piece of code that needs more work and
-    testing**
--   I am no longer developing it, but wanted to share it here in case it
-    provides a useful starting point for someone else…
+-   I am no longer developing this code, but wanted to share it here in
+    case it provides a useful starting point for someone else…
 
 ``` r
 library(tidyverse)
